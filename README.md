@@ -1,4 +1,4 @@
-minimum steps required to self host (twenty)[https://gituhb.com/twentyhq/twenty]
+minimum steps required to self host [twenty](https://gituhb.com/twentyhq/twenty).
 
 ```shell
 $ curl -o .env https://raw.githubusercontent.com/twentyhq/twenty/refs/heads/main/packages/twenty-docker/.env.example
